@@ -6,4 +6,4 @@
 	url = https://github.com/bendidi/sort.git
 [submodule "darkflow"]
 	path = darkflow
-	url = https://github.com/bendidi/darkflow.git
+	url = https://github.com/tntech-csc-team4-2018/darkflow.git
